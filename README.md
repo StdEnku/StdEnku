@@ -3,4 +3,5 @@
 
 # 関連技術
 - C#
-- Xamarin Forms
+- WPF
+- MVVM
