@@ -1,2 +1,2 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=StdEnku&count_private=true&show_icons=true" />  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StdEnku" />  
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=StdEnku)  
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=StdEnku&repo=homebridge-switchbot-for-mac)  
