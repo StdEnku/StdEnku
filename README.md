@@ -11,9 +11,3 @@ Enku also carved his signature and message on the back of his statues. These are
 Enku also carved the words “Mokujido Saku Daimyojin” on his statues. This means that he respected the material of wood carving, which is called “mokujido”, and that making statues out of it was a sacred act. This is similar to the value of free software philosophy, which says that software is a common property of humanity and that creating with it is a noble thing.
 
 I admire Enku for his dedication and generosity in sharing his art with the world.
-
-# My area of interest
-- C#
-- WPF
-- WinUi3
-- MVVM
