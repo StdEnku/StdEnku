@@ -1,4 +1,4 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StdEnku&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StdEnku&theme=github_dark)
 
 # Do you know a Buddhist monk named Enku?
 
